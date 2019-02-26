@@ -1,0 +1,4 @@
+elastic:
+  cluster: test
+  host: localhost
+  port: 9300
